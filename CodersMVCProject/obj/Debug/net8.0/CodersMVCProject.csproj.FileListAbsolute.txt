@@ -1,0 +1,61 @@
+D:\One Drive\OneDrive - ABC-Telecom LLC\Desktop\Teaching\Lessons\Project\CodersMVCProject\CodersMVCProject\bin\Debug\net8.0\appsettings.Development.json
+D:\One Drive\OneDrive - ABC-Telecom LLC\Desktop\Teaching\Lessons\Project\CodersMVCProject\CodersMVCProject\bin\Debug\net8.0\appsettings.json
+D:\One Drive\OneDrive - ABC-Telecom LLC\Desktop\Teaching\Lessons\Project\CodersMVCProject\CodersMVCProject\bin\Debug\net8.0\CodersMVCProject.staticwebassets.runtime.json
+D:\One Drive\OneDrive - ABC-Telecom LLC\Desktop\Teaching\Lessons\Project\CodersMVCProject\CodersMVCProject\bin\Debug\net8.0\CodersMVCProject.exe
+D:\One Drive\OneDrive - ABC-Telecom LLC\Desktop\Teaching\Lessons\Project\CodersMVCProject\CodersMVCProject\bin\Debug\net8.0\CodersMVCProject.deps.json
+D:\One Drive\OneDrive - ABC-Telecom LLC\Desktop\Teaching\Lessons\Project\CodersMVCProject\CodersMVCProject\bin\Debug\net8.0\CodersMVCProject.runtimeconfig.json
+D:\One Drive\OneDrive - ABC-Telecom LLC\Desktop\Teaching\Lessons\Project\CodersMVCProject\CodersMVCProject\bin\Debug\net8.0\CodersMVCProject.dll
+D:\One Drive\OneDrive - ABC-Telecom LLC\Desktop\Teaching\Lessons\Project\CodersMVCProject\CodersMVCProject\bin\Debug\net8.0\CodersMVCProject.pdb
+D:\One Drive\OneDrive - ABC-Telecom LLC\Desktop\Teaching\Lessons\Project\CodersMVCProject\CodersMVCProject\obj\Debug\net8.0\CodersMVCProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\One Drive\OneDrive - ABC-Telecom LLC\Desktop\Teaching\Lessons\Project\CodersMVCProject\CodersMVCProject\obj\Debug\net8.0\CodersMVCProject.AssemblyInfoInputs.cache
+D:\One Drive\OneDrive - ABC-Telecom LLC\Desktop\Teaching\Lessons\Project\CodersMVCProject\CodersMVCProject\obj\Debug\net8.0\CodersMVCProject.AssemblyInfo.cs
+D:\One Drive\OneDrive - ABC-Telecom LLC\Desktop\Teaching\Lessons\Project\CodersMVCProject\CodersMVCProject\obj\Debug\net8.0\CodersMVCProject.csproj.CoreCompileInputs.cache
+D:\One Drive\OneDrive - ABC-Telecom LLC\Desktop\Teaching\Lessons\Project\CodersMVCProject\CodersMVCProject\obj\Debug\net8.0\CodersMVCProject.MvcApplicationPartsAssemblyInfo.cache
+D:\One Drive\OneDrive - ABC-Telecom LLC\Desktop\Teaching\Lessons\Project\CodersMVCProject\CodersMVCProject\obj\Debug\net8.0\CodersMVCProject.RazorAssemblyInfo.cache
+D:\One Drive\OneDrive - ABC-Telecom LLC\Desktop\Teaching\Lessons\Project\CodersMVCProject\CodersMVCProject\obj\Debug\net8.0\CodersMVCProject.RazorAssemblyInfo.cs
+D:\One Drive\OneDrive - ABC-Telecom LLC\Desktop\Teaching\Lessons\Project\CodersMVCProject\CodersMVCProject\obj\Debug\net8.0\CodersMVCProject.sourcelink.json
+D:\One Drive\OneDrive - ABC-Telecom LLC\Desktop\Teaching\Lessons\Project\CodersMVCProject\CodersMVCProject\obj\Debug\net8.0\staticwebassets.build.json
+D:\One Drive\OneDrive - ABC-Telecom LLC\Desktop\Teaching\Lessons\Project\CodersMVCProject\CodersMVCProject\obj\Debug\net8.0\staticwebassets.development.json
+D:\One Drive\OneDrive - ABC-Telecom LLC\Desktop\Teaching\Lessons\Project\CodersMVCProject\CodersMVCProject\obj\Debug\net8.0\staticwebassets\msbuild.CodersMVCProject.Microsoft.AspNetCore.StaticWebAssets.props
+D:\One Drive\OneDrive - ABC-Telecom LLC\Desktop\Teaching\Lessons\Project\CodersMVCProject\CodersMVCProject\obj\Debug\net8.0\staticwebassets\msbuild.build.CodersMVCProject.props
+D:\One Drive\OneDrive - ABC-Telecom LLC\Desktop\Teaching\Lessons\Project\CodersMVCProject\CodersMVCProject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CodersMVCProject.props
+D:\One Drive\OneDrive - ABC-Telecom LLC\Desktop\Teaching\Lessons\Project\CodersMVCProject\CodersMVCProject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CodersMVCProject.props
+D:\One Drive\OneDrive - ABC-Telecom LLC\Desktop\Teaching\Lessons\Project\CodersMVCProject\CodersMVCProject\obj\Debug\net8.0\staticwebassets.pack.json
+D:\One Drive\OneDrive - ABC-Telecom LLC\Desktop\Teaching\Lessons\Project\CodersMVCProject\CodersMVCProject\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\One Drive\OneDrive - ABC-Telecom LLC\Desktop\Teaching\Lessons\Project\CodersMVCProject\CodersMVCProject\obj\Debug\net8.0\scopedcss\bundle\CodersMVCProject.styles.css
+D:\One Drive\OneDrive - ABC-Telecom LLC\Desktop\Teaching\Lessons\Project\CodersMVCProject\CodersMVCProject\obj\Debug\net8.0\scopedcss\projectbundle\CodersMVCProject.bundle.scp.css
+D:\One Drive\OneDrive - ABC-Telecom LLC\Desktop\Teaching\Lessons\Project\CodersMVCProject\CodersMVCProject\obj\Debug\net8.0\CodersMVCProject.dll
+D:\One Drive\OneDrive - ABC-Telecom LLC\Desktop\Teaching\Lessons\Project\CodersMVCProject\CodersMVCProject\obj\Debug\net8.0\refint\CodersMVCProject.dll
+D:\One Drive\OneDrive - ABC-Telecom LLC\Desktop\Teaching\Lessons\Project\CodersMVCProject\CodersMVCProject\obj\Debug\net8.0\CodersMVCProject.pdb
+D:\One Drive\OneDrive - ABC-Telecom LLC\Desktop\Teaching\Lessons\Project\CodersMVCProject\CodersMVCProject\obj\Debug\net8.0\CodersMVCProject.genruntimeconfig.cache
+D:\One Drive\OneDrive - ABC-Telecom LLC\Desktop\Teaching\Lessons\Project\CodersMVCProject\CodersMVCProject\obj\Debug\net8.0\ref\CodersMVCProject.dll
+C:\Users\SAID\Desktop\CodersMVCProject\CodersMVCProject\CodersMVCProject\obj\Debug\net8.0\CodersMVCProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAID\Desktop\CodersMVCProject\CodersMVCProject\CodersMVCProject\obj\Debug\net8.0\CodersMVCProject.AssemblyInfoInputs.cache
+C:\Users\SAID\Desktop\CodersMVCProject\CodersMVCProject\CodersMVCProject\obj\Debug\net8.0\CodersMVCProject.AssemblyInfo.cs
+C:\Users\SAID\Desktop\CodersMVCProject\CodersMVCProject\CodersMVCProject\obj\Debug\net8.0\CodersMVCProject.csproj.CoreCompileInputs.cache
+C:\Users\SAID\Desktop\CodersMVCProject\CodersMVCProject\CodersMVCProject\obj\Debug\net8.0\CodersMVCProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SAID\Desktop\CodersMVCProject\CodersMVCProject\CodersMVCProject\obj\Debug\net8.0\CodersMVCProject.RazorAssemblyInfo.cache
+C:\Users\SAID\Desktop\CodersMVCProject\CodersMVCProject\CodersMVCProject\obj\Debug\net8.0\CodersMVCProject.RazorAssemblyInfo.cs
+C:\Users\SAID\Desktop\CodersMVCProject\CodersMVCProject\CodersMVCProject\obj\Debug\net8.0\CodersMVCProject.dll
+C:\Users\SAID\Desktop\CodersMVCProject\CodersMVCProject\CodersMVCProject\obj\Debug\net8.0\refint\CodersMVCProject.dll
+C:\Users\SAID\Desktop\CodersMVCProject\CodersMVCProject\CodersMVCProject\obj\Debug\net8.0\CodersMVCProject.pdb
+C:\Users\SAID\Desktop\CodersMVCProject\CodersMVCProject\CodersMVCProject\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\SAID\Desktop\CodersMVCProject\CodersMVCProject\CodersMVCProject\bin\Debug\net8.0\appsettings.json
+C:\Users\SAID\Desktop\CodersMVCProject\CodersMVCProject\CodersMVCProject\bin\Debug\net8.0\CodersMVCProject.staticwebassets.runtime.json
+C:\Users\SAID\Desktop\CodersMVCProject\CodersMVCProject\CodersMVCProject\bin\Debug\net8.0\CodersMVCProject.exe
+C:\Users\SAID\Desktop\CodersMVCProject\CodersMVCProject\CodersMVCProject\bin\Debug\net8.0\CodersMVCProject.deps.json
+C:\Users\SAID\Desktop\CodersMVCProject\CodersMVCProject\CodersMVCProject\bin\Debug\net8.0\CodersMVCProject.runtimeconfig.json
+C:\Users\SAID\Desktop\CodersMVCProject\CodersMVCProject\CodersMVCProject\bin\Debug\net8.0\CodersMVCProject.dll
+C:\Users\SAID\Desktop\CodersMVCProject\CodersMVCProject\CodersMVCProject\bin\Debug\net8.0\CodersMVCProject.pdb
+C:\Users\SAID\Desktop\CodersMVCProject\CodersMVCProject\CodersMVCProject\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\SAID\Desktop\CodersMVCProject\CodersMVCProject\CodersMVCProject\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\SAID\Desktop\CodersMVCProject\CodersMVCProject\CodersMVCProject\obj\Debug\net8.0\staticwebassets\msbuild.CodersMVCProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SAID\Desktop\CodersMVCProject\CodersMVCProject\CodersMVCProject\obj\Debug\net8.0\staticwebassets\msbuild.build.CodersMVCProject.props
+C:\Users\SAID\Desktop\CodersMVCProject\CodersMVCProject\CodersMVCProject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CodersMVCProject.props
+C:\Users\SAID\Desktop\CodersMVCProject\CodersMVCProject\CodersMVCProject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CodersMVCProject.props
+C:\Users\SAID\Desktop\CodersMVCProject\CodersMVCProject\CodersMVCProject\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\SAID\Desktop\CodersMVCProject\CodersMVCProject\CodersMVCProject\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\SAID\Desktop\CodersMVCProject\CodersMVCProject\CodersMVCProject\obj\Debug\net8.0\scopedcss\bundle\CodersMVCProject.styles.css
+C:\Users\SAID\Desktop\CodersMVCProject\CodersMVCProject\CodersMVCProject\obj\Debug\net8.0\scopedcss\projectbundle\CodersMVCProject.bundle.scp.css
+C:\Users\SAID\Desktop\CodersMVCProject\CodersMVCProject\CodersMVCProject\obj\Debug\net8.0\CodersMVCProject.genruntimeconfig.cache
+C:\Users\SAID\Desktop\CodersMVCProject\CodersMVCProject\CodersMVCProject\obj\Debug\net8.0\ref\CodersMVCProject.dll
